@@ -1,4 +1,4 @@
-## React Native Starter App with React Native Elements UI
+## React Native App with React Native Elements UI
 
 
 - Expo
